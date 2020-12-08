@@ -18,7 +18,7 @@
 
 <br />
 
-Hi, I'm [Mithilesh Kohale](https://mithileshkohale.com/), a Full Stack Developer 🚀 from India. I like coding websites based on ReactJs, ExpressJs & GraphQL Beside's programming, I enjoy playing dota 2 and guitar.
+Hi, I'm [Mithilesh Kohale](https://mithileshkohale.com/), a Full Stack Developer 🚀 from India. I like coding websites based on ReactJs, ExpressJs & GraphQL. Beside's programming, I enjoy playing dota 2 and guitar.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
