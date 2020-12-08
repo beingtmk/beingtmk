@@ -25,7 +25,7 @@ Hi, I'm [Mithilesh Kohale](https://mithileshkohale.com/), a Full Stack Developer
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++; 
+- 🌱 I’m currently learning GraphQL and Java; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@beingtmk](https://twitter.com/beingtmk);
 - 📝[Resume](https://drive.google.com/file/d/18mmTDCaSy_KijYPXiH6OQDmt6Zokcesc/view?usp=sharing)
